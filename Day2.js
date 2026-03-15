@@ -16,7 +16,7 @@ else{
     console.log("not eligible to drive");
 }
 
-to//Write a program  check user by a and b find the biggest no
+to//Write a program  check user by a and b find the biggest number
 let a=Number(prompt("enter 1st number"))
 let b=Number(prompt("enter 2nd number"))
 if(a>b){
