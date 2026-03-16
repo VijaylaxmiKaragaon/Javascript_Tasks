@@ -9,7 +9,6 @@
 
 // Features:
 // Add product to cart
-// Remove product
 // View cart total
 // Checkout
 let again=true
